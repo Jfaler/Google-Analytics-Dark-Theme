@@ -1,0 +1,199 @@
+md-content.md-ga-theme {
+    background-color: #111;
+}
+
+ga-d3-cohort-table text {
+    fill: #fff;
+    font-family: Roboto,sans-serif;
+    font-size: 13px;
+}
+
+.md-ga-theme ga-metric-table .value span {
+
+    color: #d6d6d6;
+    font: 300 18px/14px 'Roboto',sans-serif;
+    letter-spacing: 0;
+
+}
+
+.ga-nav ga-nav-link .ga-nav-link.is-active-state {
+    background-color: #333;
+}
+
+ga-d3-cohort-table .x-axis .tick text {
+
+    fill: #d6d6d6;
+    font-size: 12px;
+
+}
+
+.md-ga-theme ga-metric-table .frequency span {
+
+    color: #d6d6d6;
+    font: 400 12px/16px 'Roboto',sans-serif;
+    letter-spacing: 0;
+    align-items: center;
+    display: flex;
+    margin-bottom: 12px;
+
+}
+
+text {
+    fill: #fff;
+    font-family: Roboto,sans-serif;
+    font-size: 13px;
+}
+
+ga-report-toolbar-buttons .md-button span {
+    color: #fff;
+    font: 500 12px/16px 'Roboto',sans-serif;
+    letter-spacing: 0;
+    margin-left: 4px;
+}
+
+md-icon.md-ga-theme {
+    color: #fff;
+}
+
+.gafe *, .gafe ::before, .gafe ::after {
+
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #fff;
+
+}
+
+.ga-nav, .ga-nav #ga-nav-collapse, .ga-nav md-content, .ga-nav md-content.md-ga-theme {
+    background-color: #222;
+}
+
+
+.ga-footer {
+    background: #111;
+    color: #80868b;
+    font: 500 14px 'Google Sans',Arial,Helvetica,sans-serif;
+    height: 48px;
+    letter-spacing: .25px;
+    text-align: center;
+}
+
+card .outer-title h2 {
+    color: #fff;
+    font: 300 18px/14px 'Roboto',sans-serif;
+    letter-spacing: 0;
+    display: inline-block;
+}
+
+md-card.md-ga-theme {
+    color: #fff;
+    background-color: #222;
+    border-radius: 2px;
+}
+
+.md-ga-theme .selected ga-metric-table .metric-table-container-large .value span {
+    color: #fff;
+    font: 400 26px/20px 'Roboto',sans-serif;
+    letter-spacing: 0;
+}
+
+.md-ga-theme .selected ga-metric-table .metric-table-container-large .frequency span {
+    color: #fff;
+    font: 500 14px/10px 'Roboto',sans-serif;
+    letter-spacing: 0;
+}
+
+.md-ga-theme ga-metric-table .metric-table-container-large .value span {
+    color: #fff;
+    font: 300 26px/20px 'Roboto',sans-serif;
+    letter-spacing: 0;
+    margin-bottom: 10px;
+}
+
+.md-ga-theme ga-metric-table .metric-table-container-large .frequency span {
+    color: #fff;
+    font: 400 14px/10px 'Roboto',sans-serif;
+    letter-spacing: 0;
+    margin-bottom: 18px;
+}
+
+ga-insights-card .suggested-questions .suggested-question-container .suggested-question-text {
+    color: #fff;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+ga-insights-card .suggested-questions .card-title .card-title-text {
+    color: #fff;
+    font-size: 18px;
+}
+
+card .card-header .card-title-text {
+    color: #fff;
+    font: 400 14px Roboto,sans-serif;
+}
+
+.md-ga-theme ga-tabbed-chart .short .selected .tab-header {
+    color: #fff;
+    font: 500 14px/10px 'Roboto',sans-serif;
+    letter-spacing: 0;
+}
+ga-time-of-day-chart text {
+    fill: #fff;
+    font-family: Roboto,sans-serif;
+    font-size: 12px;
+}
+
+.ga-viz-table .ga-viz-table-default-background {
+    fill: #222;
+}
+
+.gms-header .md-button.suite-free-chip, .gms-header .md-button.suite-premium-chip {
+    background-color: #222;
+    height: 64px;
+    overflow: hidden;
+}
+
+.gms-header .md-toolbar-tools.gms-header-toolbar {
+    height: 64px;
+    min-height: 64px;
+    background-color: #222;
+    border-color:#222;
+}
+
+.ga-nav ga-nav-link .ga-nav-link .ga-nav-link-label {
+    color: #fff;
+    font: 500 14px 'Google Sans',Arial,Helvetica,sans-serif;
+    letter-spacing: .25px;
+    word-break: break-word;
+}
+
+.ga-nav ga-nav-link md-icon.ga-link-icon {
+    color: #fff;
+    font-size: 20px;
+    height: 20px;
+    line-height: 20px;
+    margin: 0 16px 0 20px;
+        margin-left: 20px;
+    min-height: 20px;
+    min-width: 20px;
+    width: 20px;
+}
+
+.ga-nav .ga-nav-section .ga-nav-section-title {
+    color: #fff;
+    display: block;
+    font: 500 13px Roboto,sans-serif;
+        font-size: 13px;
+    font-size: 11px;
+    letter-spacing: .8px;
+    padding: 16px 0 8px 24px;
+    text-transform: uppercase;
+    transition: all .15s ease-in-out;
+}
+
+.gafe, .gafe input, .gms-legacy input[type="number"], .gms-legacyinput[type="number"] {
+    color: #fff;
+    font-family: 'Roboto',sans-serif;
+    font-size: 13px;
+}
